@@ -1,0 +1,11 @@
+{
+  "name": "webpack-external-repro-case",
+  "version": "1.0.0",
+  "description": "repro example for a bug with webpack external dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
