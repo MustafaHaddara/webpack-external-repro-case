@@ -16,8 +16,8 @@ module.exports = {
     clean: true
   },
   externals: {
-    'react': 'react',
-    'react-dom': 'react-dom',
+    'react': 'commonjs-module react',
+    'react-dom': 'commonjs-module react-dom',
   },
   optimization: {
     minimize: false,
